@@ -1,0 +1,236 @@
+#EXTM3U
+
+#EXTINF:0 group-title="Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/MyVideo_Logo.svg/874px-MyVideo_Logo.svg.png",MyFile1 [TS]
+http://192.168.43.1:12345/1.ts
+
+#EXTINF:0 group-title="Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/MyVideo_Logo.svg/874px-MyVideo_Logo.svg.png",MyFile2 [TS]
+http://192.168.43.1:12345/2.ts
+
+#EXTINF:0 group-title="Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/MyVideo_Logo.svg/874px-MyVideo_Logo.svg.png",MyFile3 [TS]
+http://192.168.43.1:12345/3.ts
+
+#EXTINF:-1 tvg-id="SET  HD" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg",Sony HD 216p
+https://sony247channels.akamaized.net/hls/live/2009800/SETHD/hdntl=exp=1579936086~acl=%2f*~data=hdntl~hmac=d774d9fffb1d1852e84c9a790efee114fd81dfc92c663928cfa6b14a2c20b26f/master_224.m3u8
+
+#EXTINF:-1 tvg-id="SONY SAB HD" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Sony_Sab.jpg",Sony SAB HD 216p
+https://sony247channels.akamaized.net/hls/live/2009801/SABHD/hdntl=exp=1579936086~acl=%2f*~data=hdntl~hmac=d774d9fffb1d1852e84c9a790efee114fd81dfc92c663928cfa6b14a2c20b26f/master_224.m3u8
+
+#EXTINF:-1 tvg-id="SONY PAL" group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/Sony_pal.png",Sony Pal 144p
+https://sony247channels.akamaized.net/hls/live/2009809/SonyPalSD/hdntl=exp=1579936086~acl=%2f*~data=hdntl~hmac=d774d9fffb1d1852e84c9a790efee114fd81dfc92c663928cfa6b14a2c20b26f/master_108.m3u8
+
+#EXTINF:-1 tvg-id="SONY AATH" group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1280px-Sony_Aath_logo.svg.png",Sony Aath SD 144p
+https://sony247channels.akamaized.net/hls/live/2009811/SonyAathSD/hdntl=exp=1579936086~acl=%2f*~data=hdntl~hmac=d774d9fffb1d1852e84c9a790efee114fd81dfc92c663928cfa6b14a2c20b26f/master_108.m3u8
+
+#EXTINF:-1 tvg-id="SONY AATH" group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1280px-Sony_Aath_logo.svg.png",Sony Aath SD (Auto)
+https://sony247channels.akamaized.net/hls/live/2009811/SonyAathSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1579258800_176759bcb0dcdc4a5a0a90c24c5c53e3
+
+#EXTINF:-1 tvg-id="SONY MAX" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Sony_MAX_logo.svg/1280px-Sony_MAX_logo.svg.png",Sony Max SD 144p
+https://sony247channels.akamaized.net/hls/live/2009808/SonyMaxSD/hdntl=exp=1579936086~acl=%2f*~data=hdntl~hmac=d774d9fffb1d1852e84c9a790efee114fd81dfc92c663928cfa6b14a2c20b26f/master_108.m3u8
+
+#EXTINF:-1 tvg-id="SONY MAX HD" group-title="Movies" tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_298/PORTRAIT/Lad3I4Yq.png?o=production",Sony Max HD 144p
+https://sony247channels.akamaized.net/hls/live/2009802/SonyMaxhd/hdntl=exp=1579936086~acl=%2f*~data=hdntl~hmac=d774d9fffb1d1852e84c9a790efee114fd81dfc92c663928cfa6b14a2c20b26f/master_108.m3u8
+
+#EXTINF:0 tvg-id="SONY TEN 1" group-title="Sports" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg/revision/latest?cb=20190322143617",Sony Ten 1SD 144p
+https://sony247channels.akamaized.net/hls/live/2004807/SonyTen1SD/hdntl=exp=1579936086~acl=%2f*~data=hdntl~hmac=d774d9fffb1d1852e84c9a790efee114fd81dfc92c663928cfa6b14a2c20b26f/master_140.m3u8
+
+#EXTINF:0 tvg-id="SONY TEN 2" group-title="Sports" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg/revision/latest/scale-to-width-down/340?cb=20190322143848",Sony Ten 2 SD 216p
+https://sony247channels.akamaized.net/hls/live/2004808/SonyTen2SD/hdntl=exp=1579936086~acl=%2f*~data=hdntl~hmac=d774d9fffb1d1852e84c9a790efee114fd81dfc92c663928cfa6b14a2c20b26f/master_256.m3u8
+
+#EXTINF:0 tvg-id="SONY TEN 3" group-title="Sports" tvg-logo="https://cricasia.com/wp-content/uploads/2018/04/Watch-Sony-Ten-3-Tv-Channel-Live-Streaming-810x456.png",Sony Ten 3 SD 144p
+https://sony247channels.akamaized.net/hls/live/2004809/SonyTen3SD/hdntl=exp=1579936086~acl=%2f*~data=hdntl~hmac=d774d9fffb1d1852e84c9a790efee114fd81dfc92c663928cfa6b14a2c20b26f/master_140.m3u8
+
+#EXTINF:0 tvg-id="SONY SIX" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png",Sony Six SD 144p
+https://sony247channels.akamaized.net/hls/live/2004805/SonySixSD/hdntl=exp=1579936086~acl=%2f*~data=hdntl~hmac=d774d9fffb1d1852e84c9a790efee114fd81dfc92c663928cfa6b14a2c20b26f/master_140.m3u8
+
+#EXTINF:0 tvg-id="SONY ESPN" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sony_ESPN_logo.svg/640px-Sony_ESPN_logo.svg.png",Sony ESPN SD 144p
+https://sony247channels.akamaized.net/hls/live/2004806/SONYESPNSD/hdntl=exp=1579936086~acl=%2f*~data=hdntl~hmac=d774d9fffb1d1852e84c9a790efee114fd81dfc92c663928cfa6b14a2c20b26f/master_140.m3u8
+
+#EXTINF:0 tvg-id="SONY ESPN" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sony_ESPN_logo.svg/640px-Sony_ESPN_logo.svg.png",Sony ESPN SD (Auto)
+#EXTGRP:Sports
+https://sony247channels.akamaized.net/hls/live/2004806/SONYESPNSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1579258800_176759bcb0dcdc4a5a0a90c24c5c53e3
+
+#EXTINF:-1 tvg-id="SONY BBC EARTH" group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png",Sony BBC Earth 144p
+https://sony247channels.akamaized.net/hls/live/2009815/SonyBBCEarthHD/hdntl=exp=1579936086~acl=%2f*~data=hdntl~hmac=d774d9fffb1d1852e84c9a790efee114fd81dfc92c663928cfa6b14a2c20b26f/master_108.m3u8
+
+#EXTINF:-1 tvg-id="SONY BBC EARTH" group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png",Sony BBC Earth 240p
+https://sony247channels.akamaized.net/hls/live/2009815/SonyBBCEarthHD/hdntl=exp=1579936086~acl=%2f*~data=hdntl~hmac=d774d9fffb1d1852e84c9a790efee114fd81dfc92c663928cfa6b14a2c20b26f/master_224.m3u8
+
+#EXTINF:0,Epic 144p
+#EXTGRP:Infotainment
+https://sony247channels.akamaized.net/hls/live/2008248/EPICCHANNEL/hdntl=exp=1579936086~acl=%2f*~data=hdntl~hmac=d774d9fffb1d1852e84c9a790efee114fd81dfc92c663928cfa6b14a2c20b26f/master_140.m3u8
+
+#EXTINF:0,Epic 288p
+#EXTGRP:Infotainment
+https://sony247channels.akamaized.net/hls/live/2008248/EPICCHANNEL/hdntl=exp=1579936086~acl=%2f*~data=hdntl~hmac=d774d9fffb1d1852e84c9a790efee114fd81dfc92c663928cfa6b14a2c20b26f/master_444.m3u8
+
+#EXTINF:0,Food Food 240p
+#EXTGRP:Infotainment
+https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b108000.m3u8?__nn__=5606168722001&hdnea=1579181400_c5b3ac77f6d1effc3661402d183263b9
+
+#EXTINF:-1 tvg-id="SONY PIX HD" group-title="Hollywood" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-pix-hd-logo-300x300.jpg",Sony Pix 144p
+https://sony247channels.akamaized.net/hls/live/2009804/PIXHD/hdntl=exp=1579936086~acl=%2f*~data=hdntl~hmac=d774d9fffb1d1852e84c9a790efee114fd81dfc92c663928cfa6b14a2c20b26f/master_108.m3u8
+
+#EXTINF:0,AXN 144p
+#EXTGRP:Hollywood
+https://sony247channels.akamaized.net/hls/live/2009805/AXNHD/hdntl=exp=1579936086~acl=%2f*~data=hdntl~hmac=d774d9fffb1d1852e84c9a790efee114fd81dfc92c663928cfa6b14a2c20b26f/master_108.m3u8
+
+#EXTINF:0,EuroChannelHD 144p
+#EXTGRP:Hollywood
+https://sony247channels.akamaized.net/hls/live/2009813/EUROCHANNEL/hdntl=exp=1579525783~acl=%2f*~data=hdntl~hmac=3745f34ebc672de93e2b43aef6c1397e80b5d78a15cfa949b2587b57802a5516/master_108.m3u8
+
+#EXTINF:0,The Q India 144p
+#EXTGRP:Hindi
+https://amg1-i.akamaihd.net/hls/live/784034/Q001/playlist.m3u8?__nn__=5606168722001&hdnea=st=1579174200~exp=1579177800~acl=/hls/live/784034/Q001/*~hmac=81afe773b89ed3a5f6c9c6a290766c08d33e1733521669e79e04a0d820dd954c
+
+#EXTINF:0,Sony Yay 144p
+#EXTGRP:Kids
+https://sony247channels.akamaized.net/hls/live/2009807/SonyYaySD/hdntl=exp=1579936086~acl=%2f*~data=hdntl~hmac=d774d9fffb1d1852e84c9a790efee114fd81dfc92c663928cfa6b14a2c20b26f/master_108.m3u8
+
+#EXTINF:0 tvg-id="ANIMAX HD" group-title="Kids" tvg-logo="https://i.dlpng.com/static/png/501842_preview.png",Animax 216p
+https://sony247channels.akamaized.net/hls/live/2002598/AnimaxHD/hdntl=exp=1579936086~acl=%2f*~data=hdntl~hmac=d774d9fffb1d1852e84c9a790efee114fd81dfc92c663928cfa6b14a2c20b26f/master_224.m3u8
+
+#EXTINF:0 tvg-id="ANIMAX HD" group-title="Kids" tvg-logo="https://i.dlpng.com/static/png/501842_preview.png",Animax (Auto)
+https://sony247channels.akamaized.net/hls/live/2002598/AnimaxHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1579258800_176759bcb0dcdc4a5a0a90c24c5c53e3
+
+#EXTINF:0,Aaj Tak 180p
+#EXTGRP:News
+https://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+
+#EXTINF:0,Kolkata TV [144/240/360/480]
+#EXTGRP:News
+https://m-c14-j2apps.s.llnwi.net/hls/5956.KolkataLive.in_144p/index.m3u8
+
+#EXTINF:0,Sangeet Bangla
+#EXTGRP:Music
+https://m-c02-j2apps.s.llnwi.net/hls/0138.SangeetBangla.in_144p/index.m3u8
+
+#EXTINF:0,ABP News 180p
+#EXTGRP:News
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
+
+#EXTINF:0,ABP Ananda 180p
+#EXTGRP:News
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
+
+#EXTINF:0,ABP Ananda 720p
+#EXTGRP:News
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
+
+#EXTINF:0,DD News
+#EXTGRP:News
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+
+#EXTINF:0,India Today
+#EXTGRP:News
+https://feeds.intoday.in/hltapps/api/master.m3u8
+
+#EXTINF:0,Times Now 240p
+#EXTGRP:News
+http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_240_av-p.m3u8
+
+#EXTINF:0,Times Now 720p
+#EXTGRP:News
+http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+
+#EXTINF:0,D Sports 288p
+#EXTGRP:Sports
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_400.m3u8
+
+#EXTINF:0,D Sports 360p
+#EXTGRP:Sports
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_600.m3u8
+
+#EXTINF:0,Insight 288p
+http://jiocgwhub.jio.ril.com/Insight/Insight_400.m3u8
+
+#EXTINF:0,Sony Ten 3
+#EXTGRP:Sports
+http://163.172.85.133:8080/TenS/3/index.m3u8
+
+#EXTINF:0,BloombergQuint 144p
+#EXTGRP:News
+http://d11s4g6fjkwvel.cloudfront.net/out/v1/6008c8c2598e47c197d5473f184669a8/bquint_1.m3u8?__nn__=5606168722001&hdnea=1579181400_8e55253e10b01f6facd5c73ff8663d7f
+
+#EXTINF:0,BloombergQuint 720p
+#EXTGRP:News
+http://d11s4g6fjkwvel.cloudfront.net/out/v1/6008c8c2598e47c197d5473f184669a8/bquint_6.m3u8?__nn__=5606168722001&hdnea=1579181400_8e55253e10b01f6facd5c73ff8663d7f
+
+#EXTINF:0,ET Now
+#EXTGRP:News
+https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
+
+#EXTINF:0,ET Now 288p
+#EXTGRP:News
+http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_288_av-b.m3u8
+
+#EXTINF:0,ET Now 360p
+#EXTGRP:News
+http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_360_av-b.m3u8
+
+#EXTINF:0,ET Now 576p
+#EXTGRP:News
+http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
+
+#EXTINF:0,NDTV 24X7 480p
+#EXTGRP:News
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+
+#EXTINF:0,Zoom 240p
+#EXTGRP:Music
+http://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8
+
+#EXTINF:0,Zee Bangla 240p
+#EXTGRP:Bangla
+https://streamer-1.toffeelive.com/live/zee_bangla_240/index.m3u8
+#EXTINF:0,Zee Bangla 720p
+#EXTGRP:Bangla
+https://streamer-1.toffeelive.com/live/zee_bangla_720/index.m3u8
+#EXTINF:0,Zee Bangla Cinema 240p
+#EXTGRP:Bangla
+https://streamer-1.toffeelive.com/live/zee_bangla_cinema_240/index.m3u8
+
+#EXTINF:0,Nat Geo (Auto)
+#EXTGRP:Infotainment
+https://livecdnh1.tvanywhere.ae/hls/nat_geo/index.m3u8
+#EXTINF:0,Nat Geo People 180p
+#EXTGRP:Infotainment
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/01.m3u8
+#EXTINF:-1 tvg-id="Star Movies HD" group-title="Movies" tvg-logo="https://content.osn.com/logo/channel/cropped/STM.png",Star Movies HD 180p
+http://livecdnh1.tvanywhere.ae/hls/star_movies/01.m3u8
+#EXTINF:0,Star World HD 180p
+http://livecdnh1.tvanywhere.ae/hls/star_world/01.m3u8
+
+#EXTINF:-1 tvg-id="Colors" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D9%84%D8%A9_%D8%A8%D8%B1%D8%B3.png/revision/latest?cb=20170604044941",Colors HD 360p
+http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/playlist.m3u8
+
+#EXTINF:-1 tvg-id="STAR PLUS HD" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/Star_Plus_HD_2016.jpg/revision/latest?cb=20190810163335",Star Plus
+http://52.66.207.99/h.php?c=starplushd&e=.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
+#EXTINF:-1 tvg-id="STAR BHARAT HD" group-title="Hindi Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png",Star Bharat HD
+http://52.66.207.99/h.php?c=starbharat&e=.m3u8
+
+#EXTINF:0,Star Sports 1 720p
+http://fr-c.movply.stream/hls/star-sports-1-hd.m3u8
+
+#EXTINF:0,Romedy Now
+#EXTGRP:Hollywood
+https://timesnow.airtel.tv/live/RN_pull/master.m3u8
+#EXTINF:0,Movies Now
+#EXTGRP:Hollywood
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+#EXTINF:0,Movies Now X
+#EXTGRP:Hollywood
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+
+EXTINF:0,FTV Paris (Auto)
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+#EXTINF:0,Blue Hustler 360p
+#EXTGRP:X-Channel
+http://178.124.183.13/hls/CH_BLUEHUSTLER/bw1200000/playlist.m3u8
+#EXTINF:0,VOD 2246
+#EXTGRP:X-Channel
+http://s1.hdporus.com/content/vod/s2246/240/index.m3u8 240p
