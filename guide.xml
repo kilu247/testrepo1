@@ -1,0 +1,603 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.9 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Discovery Channel">
+    <display-name lang="en">Discovery Channel</display-name>
+    <url>http://www.tv.burrp.com</url>
+  </channel>
+  <channel id="DD National">
+    <display-name lang="en">DD National</display-name>
+    <icon src="http://www.tatasky.com/tvguiderv/channel_logos/114.png" />
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="Star Jalsha">
+    <display-name lang="en">Star Jalsha</display-name>
+    <url>http://www.startv.com</url>
+  </channel>
+  <channel id="B4U Movies">
+    <display-name lang="en">B4U Movies</display-name>
+    <url>http://www.tvscheduleindia.com</url>
+  </channel>
+  <channel id="ABP Ananda">
+    <display-name lang="en">ABP Ananda</display-name>
+    <url>http://www.whatsonindia.com</url>
+  </channel>
+  <channel id="Sony HD">
+    <display-name lang="en">Sony HD</display-name>
+    <url>http://www.jio.com</url>
+  </channel>
+  <channel id="Zee TV">
+    <display-name lang="en">Zee TV</display-name>
+    <url>http://www.indiatimes.com</url>
+  </channel>
+  <channel id="Aaj Tak">
+    <display-name lang="en">Aaj Tak</display-name>
+    <url>http://www.in.com</url>
+  </channel>
+  <channel id="STAR PLUS">
+    <display-name lang="en">STAR PLUS</display-name>
+    <icon src="https://d2h-wsc-media.s3.amazonaws.com/uploads/channel/1011SPLS.jpg" />
+    <url>http://www.d2h.com</url>
+  </channel>
+  <channel id="aastha-india">
+    <display-name lang="en">aastha-india</display-name>
+    <url>http://www.aasthatv.com</url>
+  </channel>
+  <programme start="20200128000000 +0530" stop="20200128003000 +0530" channel="Star Jalsha">
+    <title lang="en">Mahapeeth Tarapeeth</title>
+    <desc lang="en">After Goddess Sati gives up on her life, Lord Vishnu decimates her body. Tarapith is one of the many places in India where Goddess Satiu0027s body parts fell.(n)</desc>
+    <category lang="en">Mythology</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/35D2D9A1182DB450E461212D43F574A78DE2DECFR.jpg" />
+  </programme>
+  <programme start="20200128003000 +0530" stop="20200128010000 +0530" channel="Star Jalsha">
+    <title lang="en">Guriya Jekhane Guddu Sekhane</title>
+    <desc lang="en">Guriya and Guddu are two orphans who set out to fulfil each otheru0027s dreams. However, when Guriya is diagnosed with a serious illness, Guddu decides to unite her with her family at any cost.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Drama</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/78C6BB52C40CC7F3D45AE1DD0111712FB159B8D7N.jpg" />
+  </programme>
+  <programme start="20200128010000 +0530" stop="20200128013000 +0530" channel="Star Jalsha">
+    <title lang="en">Dhrubotara</title>
+    <desc lang="en">Just when two childhood friends are about to confess their love for each other, a man with considerable clout suggests the girl marry him to save her family business.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Drama</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/D18AA861005DBD49798E34378F4D49AA80BA32004.jpg" />
+  </programme>
+  <programme start="20200128013000 +0530" stop="20200128020000 +0530" channel="Star Jalsha">
+    <title lang="en">Ke Apon Ke Por</title>
+    <desc lang="en">Param, a rich man, falls in love with Joba, his house help. Their relationship goes through several ups and downs before she can prove herself to be a suitable daughter-in-law of the house.(n)</desc>
+    <date>2016</date>
+    <category lang="en">Drama</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/CA2E206D17DF3B3998389051FE016CC632B6A2486.jpg" />
+  </programme>
+  <programme start="20200128020000 +0530" stop="20200128023000 +0530" channel="Star Jalsha">
+    <title lang="en">Sanjher Baati</title>
+    <desc lang="en">Charu, a village girl, is envied by her stepmother and stepsister who put her through hardships. However, Charuu0027s life takes a turn after she gets married to Arjoman.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Drama</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/78689741133BF4D6C72FCDE612422DD235BF84612.jpg" />
+  </programme>
+  <programme start="20200128023000 +0530" stop="20200128030000 +0530" channel="Star Jalsha">
+    <title lang="en">Sreemoyee</title>
+    <desc lang="en">Sreemoyee, a kind and dutiful homemaker, puts her familyu0027s needs before everything else. However, when she realises that they take her for granted, she sets out to establish an identity of her own.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Drama</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/44F0FF90D9DE484B754EF11D01A92875C3CCD2217.jpg" />
+  </programme>
+  <programme start="20200128030000 +0530" stop="20200128033000 +0530" channel="Star Jalsha">
+    <title lang="en">Mohor</title>
+    <desc lang="en">Mohor, an ambitious girl, runs away from her arranged marriage and comes to a big city to study. Things take a different turn when she is refused by the college administration.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Drama</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/E71E411FEEFCF9A1DA21C1C21A7CD91302258CC35.jpg" />
+  </programme>
+  <programme start="20200128033000 +0530" stop="20200128040000 +0530" channel="Star Jalsha">
+    <title lang="en">Mahapeeth Tarapeeth</title>
+    <desc lang="en">After Goddess Sati gives up on her life, Lord Vishnu decimates her body. Tarapith is one of the many places in India where Goddess Satiu0027s body parts fell.(n)</desc>
+    <category lang="en">Mythology</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/35D2D9A1182DB450E461212D43F574A78DE2DECFR.jpg" />
+  </programme>
+  <programme start="20200128040000 +0530" stop="20200128043000 +0530" channel="Star Jalsha">
+    <title lang="en">Durga Durgeswari</title>
+    <desc lang="en">An evil astrologeru0027s devices are threatened after a village girl Durga, who is a reincarnation of the goddess, is married into a prosperous yet superstitious family.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Drama</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/4D86F314256A8A0D136329E7EEFF4C263191BE21X.jpg" />
+  </programme>
+  <programme start="20200128043000 +0530" stop="20200128050000 +0530" channel="Star Jalsha">
+    <title lang="en">Guriya Jekhane Guddu Sekhane</title>
+    <desc lang="en">Guriya and Guddu are two orphans who set out to fulfil each otheru0027s dreams. However, when Guriya is diagnosed with a serious illness, Guddu decides to unite her with her family at any cost.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Drama</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/78C6BB52C40CC7F3D45AE1DD0111712FB159B8D7N.jpg" />
+  </programme>
+  <programme start="20200128050000 +0530" stop="20200128053000 +0530" channel="Star Jalsha">
+    <title lang="en">Ke Apon Ke Por</title>
+    <desc lang="en">Param, a rich man, falls in love with Joba, his house help. Their relationship goes through several ups and downs before she can prove herself to be a suitable daughter-in-law of the house.(n)</desc>
+    <date>2016</date>
+    <category lang="en">Drama</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/CA2E206D17DF3B3998389051FE016CC632B6A2486.jpg" />
+  </programme>
+  <programme start="20200128053000 +0530" stop="20200128060000 +0530" channel="Star Jalsha">
+    <title lang="en">Kora Pakhi</title>
+    <desc lang="en">Amon, a tribal girl, aspires to become a successful journalist in a leading Kolkata newspaper. Her life changes when she meets city-bred Ankur and searches for information on her lineage.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Drama</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/E58FE4E7624D20165BB6DC0243D319AC0F931327N.jpg" />
+  </programme>
+  <programme start="20200128060000 +0530" stop="20200128063000 +0530" channel="Star Jalsha">
+    <title lang="en">Irabotir Chupkotha</title>
+    <desc lang="en">Iraboti Mitra, a working woman, shoulders the responsibility of her family and keeps marriage proposals at bay. Things change after she meets Akash, an arrogant man, who threatens to take her house.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Drama</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/CE1462E23481952B65BABC9A887D1519E6EDDE1CY.jpg" />
+  </programme>
+  <programme start="20200128063000 +0530" stop="20200128070000 +0530" channel="Star Jalsha">
+    <title lang="en">Kapal Kundala</title>
+    <desc lang="en">Kapalkundala saves Naba Kumar from the clutches of an evil sage, the formeru0027s foster father, and the two get married. However, the sage will not rest until he has had his revenge.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Drama</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/05DFD79E5A912F2EA95A2D4882EC2CC2B8EDBCDCZ.jpg" />
+  </programme>
+  <programme start="20200128070000 +0530" stop="20200128073000 +0530" channel="Star Jalsha">
+    <title lang="en">Mohor</title>
+    <desc lang="en">Mohor, an ambitious girl, runs away from her arranged marriage and comes to a big city to study. Things take a different turn when she is refused by the college administration.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Drama</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/E71E411FEEFCF9A1DA21C1C21A7CD91302258CC35.jpg" />
+  </programme>
+  <programme start="20200128073000 +0530" stop="20200128080000 +0530" channel="Star Jalsha">
+    <title lang="en">Guriya Jekhane Guddu Sekhane</title>
+    <desc lang="en">Guriya and Guddu are two orphans who set out to fulfil each otheru0027s dreams. However, when Guriya is diagnosed with a serious illness, Guddu decides to unite her with her family at any cost.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Drama</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/78C6BB52C40CC7F3D45AE1DD0111712FB159B8D7N.jpg" />
+  </programme>
+  <programme start="20200128080000 +0530" stop="20200128083000 +0530" channel="Star Jalsha">
+    <title lang="en">Ekhane Aakash Neel</title>
+    <desc lang="en">Ujan, a doctor, and Hiya, a young woman, cannot stand each other when they meet for the first time. However, their hatred gradually turns to love when they learn more about each other.(n)</desc>
+    <date>2008</date>
+    <category lang="en">Drama</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/3514D2D5B4D21F9079C5418EFA834F6D60AFBE9A6.jpg" />
+  </programme>
+  <programme start="20200128083000 +0530" stop="20200128090000 +0530" channel="Star Jalsha">
+    <title lang="en">Dhrubotara</title>
+    <desc lang="en">Just when two childhood friends are about to confess their love for each other, a man with considerable clout suggests the girl marry him to save her family business.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Drama</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/D18AA861005DBD49798E34378F4D49AA80BA32004.jpg" />
+  </programme>
+  <programme start="20200128090000 +0530" stop="20200128093000 +0530" channel="Star Jalsha">
+    <title lang="en">Kora Pakhi</title>
+    <desc lang="en">Amon, a tribal girl, aspires to become a successful journalist in a leading Kolkata newspaper. Her life changes when she meets city-bred Ankur and searches for information on her lineage.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Drama</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/E58FE4E7624D20165BB6DC0243D319AC0F931327N.jpg" />
+  </programme>
+  <programme start="20200128093000 +0530" stop="20200128100000 +0530" channel="Star Jalsha">
+    <title lang="en">Chuni Panna</title>
+    <desc lang="en">Throughout her childhood, Chuni aspires to be a ghost hunter. Coincidentally, she grows up to marry Nirbhik, who lives in a haunted house with a ghost called Panna.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/163879ED8A23B6067EC1B73ACFC7B2F31388BE50P.jpg" />
+  </programme>
+  <programme start="20200128100000 +0530" stop="20200128103000 +0530" channel="Star Jalsha">
+    <title lang="en">Durga Durgeswari</title>
+    <desc lang="en">An evil astrologeru0027s devices are threatened after a village girl Durga, who is a reincarnation of the goddess, is married into a prosperous yet superstitious family.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Drama</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/4D86F314256A8A0D136329E7EEFF4C263191BE21X.jpg" />
+  </programme>
+  <programme start="20200128103000 +0530" stop="20200128110000 +0530" channel="Star Jalsha">
+    <title lang="en">Sreemoyee</title>
+    <desc lang="en">Sreemoyee, a kind and dutiful homemaker, puts her familyu0027s needs before everything else. However, when she realises that they take her for granted, she sets out to establish an identity of her own.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Drama</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/44F0FF90D9DE484B754EF11D01A92875C3CCD2217.jpg" />
+  </programme>
+  <programme start="20200128110000 +0530" stop="20200128113000 +0530" channel="Star Jalsha">
+    <title lang="en">Aparupa</title>
+    <desc lang="en">The host shares a number of preventive and curative beauty tips that help one maintain a fresh and youthful look in a natural way.(n)</desc>
+    <category lang="en">Health and Wellbeing</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/D8D217275F4C50664ACDB9FECBFDA46F151FEA694.jpg" />
+  </programme>
+  <programme start="20200128113000 +0530" stop="20200128120000 +0530" channel="Star Jalsha">
+    <title lang="en">Care of Keya</title>
+    <desc lang="en">Keya Seth, a respected provider of all-natural cosmetics, shares tips, tricks and secrets on skin and hair care and beautification.(n)</desc>
+    <category lang="en">Chat Show</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/E4A566F76789984C6A2D8A98E5BFE54B2E9999E3L.jpg" />
+  </programme>
+  <programme start="20200128120000 +0530" stop="20200128123000 +0530" channel="Star Jalsha">
+    <title lang="en">Ekhane Aakash Neel</title>
+    <desc lang="en">Ujan, a doctor, and Hiya, a young woman, cannot stand each other when they meet for the first time. However, their hatred gradually turns to love when they learn more about each other.(n)</desc>
+    <date>2008</date>
+    <category lang="en">Drama</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/3514D2D5B4D21F9079C5418EFA834F6D60AFBE9A6.jpg" />
+  </programme>
+  <programme start="20200128123000 +0530" stop="20200128130000 +0530" channel="Star Jalsha">
+    <title lang="en">Ke Apon Ke Por</title>
+    <desc lang="en">Param, a rich man, falls in love with Joba, his house help. Their relationship goes through several ups and downs before she can prove herself to be a suitable daughter-in-law of the house.(n)</desc>
+    <date>2016</date>
+    <category lang="en">Drama</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/CA2E206D17DF3B3998389051FE016CC632B6A2486.jpg" />
+  </programme>
+  <programme start="20200128130000 +0530" stop="20200128133000 +0530" channel="Star Jalsha">
+    <title lang="en">Dhrubotara</title>
+    <desc lang="en">Just when two childhood friends are about to confess their love for each other, a man with considerable clout suggests the girl marry him to save her family business.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Drama</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/D18AA861005DBD49798E34378F4D49AA80BA32004.jpg" />
+  </programme>
+  <programme start="20200128133000 +0530" stop="20200128140000 +0530" channel="Star Jalsha">
+    <title lang="en">Kora Pakhi</title>
+    <desc lang="en">Amon, a tribal girl, aspires to become a successful journalist in a leading Kolkata newspaper. Her life changes when she meets city-bred Ankur and searches for information on her lineage.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Drama</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/E58FE4E7624D20165BB6DC0243D319AC0F931327N.jpg" />
+  </programme>
+  <programme start="20200128140000 +0530" stop="20200128143000 +0530" channel="Star Jalsha">
+    <title lang="en">Irabotir Chupkotha</title>
+    <desc lang="en">Iraboti Mitra, a working woman, shoulders the responsibility of her family and keeps marriage proposals at bay. Things change after she meets Akash, an arrogant man, who threatens to take her house.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Drama</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/CE1462E23481952B65BABC9A887D1519E6EDDE1CY.jpg" />
+  </programme>
+  <programme start="20200128143000 +0530" stop="20200128150000 +0530" channel="Star Jalsha">
+    <title lang="en">Mohor</title>
+    <desc lang="en">Mohor, an ambitious girl, runs away from her arranged marriage and comes to a big city to study. Things take a different turn when she is refused by the college administration.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Drama</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/E71E411FEEFCF9A1DA21C1C21A7CD91302258CC35.jpg" />
+  </programme>
+  <programme start="20200128150000 +0530" stop="20200128153000 +0530" channel="Star Jalsha">
+    <title lang="en">Kapal Kundala</title>
+    <desc lang="en">Kapalkundala saves Naba Kumar from the clutches of an evil sage, the formeru0027s foster father, and the two get married. However, the sage will not rest until he has had his revenge.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Drama</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/05DFD79E5A912F2EA95A2D4882EC2CC2B8EDBCDCZ.jpg" />
+  </programme>
+  <programme start="20200128153000 +0530" stop="20200128160000 +0530" channel="Star Jalsha">
+    <title lang="en">Sreemoyee</title>
+    <desc lang="en">Sreemoyee, a kind and dutiful homemaker, puts her familyu0027s needs before everything else. However, when she realises that they take her for granted, she sets out to establish an identity of her own.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Drama</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/44F0FF90D9DE484B754EF11D01A92875C3CCD2217.jpg" />
+  </programme>
+  <programme start="20200128160000 +0530" stop="20200128163000 +0530" channel="Star Jalsha">
+    <title lang="en">Chuni Panna</title>
+    <desc lang="en">Throughout her childhood, Chuni aspires to be a ghost hunter. Coincidentally, she grows up to marry Nirbhik, who lives in a haunted house with a ghost called Panna.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/163879ED8A23B6067EC1B73ACFC7B2F31388BE50P.jpg" />
+  </programme>
+  <programme start="20200128163000 +0530" stop="20200128170000 +0530" channel="Star Jalsha">
+    <title lang="en">Mahapeeth Tarapeeth</title>
+    <desc lang="en">After Goddess Sati gives up on her life, Lord Vishnu decimates her body. Tarapith is one of the many places in India where Goddess Satiu0027s body parts fell.(n)</desc>
+    <category lang="en">Mythology</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/35D2D9A1182DB450E461212D43F574A78DE2DECFR.jpg" />
+  </programme>
+  <programme start="20200128170000 +0530" stop="20200128173000 +0530" channel="Star Jalsha">
+    <title lang="en">Guriya Jekhane Guddu Sekhane</title>
+    <desc lang="en">Guriya and Guddu are two orphans who set out to fulfil each otheru0027s dreams. However, when Guriya is diagnosed with a serious illness, Guddu decides to unite her with her family at any cost.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Drama</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/78C6BB52C40CC7F3D45AE1DD0111712FB159B8D7N.jpg" />
+  </programme>
+  <programme start="20200128173000 +0530" stop="20200128180000 +0530" channel="Star Jalsha">
+    <title lang="en">Ekhane Aakash Neel</title>
+    <desc lang="en">Ujan, a doctor, and Hiya, a young woman, cannot stand each other when they meet for the first time. However, their hatred gradually turns to love when they learn more about each other.(n)</desc>
+    <date>2008</date>
+    <category lang="en">Drama</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/3514D2D5B4D21F9079C5418EFA834F6D60AFBE9A6.jpg" />
+  </programme>
+  <programme start="20200128180000 +0530" stop="20200128183000 +0530" channel="Star Jalsha">
+    <title lang="en">Sanjher Baati</title>
+    <desc lang="en">Charu, a village girl, is envied by her stepmother and stepsister who put her through hardships. However, Charuu0027s life takes a turn after she gets married to Arjoman.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Drama</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/78689741133BF4D6C72FCDE612422DD235BF84612.jpg" />
+  </programme>
+  <programme start="20200128183000 +0530" stop="20200128190000 +0530" channel="Star Jalsha">
+    <title lang="en">Durga Durgeswari</title>
+    <desc lang="en">An evil astrologeru0027s devices are threatened after a village girl Durga, who is a reincarnation of the goddess, is married into a prosperous yet superstitious family.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Drama</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/4D86F314256A8A0D136329E7EEFF4C263191BE21X.jpg" />
+  </programme>
+  <programme start="20200128190000 +0530" stop="20200128193000 +0530" channel="Star Jalsha">
+    <title lang="en">Sreemoyee</title>
+    <desc lang="en">Sreemoyee, a kind and dutiful homemaker, puts her familyu0027s needs before everything else. However, when she realises that they take her for granted, she sets out to establish an identity of her own.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Drama</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/44F0FF90D9DE484B754EF11D01A92875C3CCD2217.jpg" />
+  </programme>
+  <programme start="20200128193000 +0530" stop="20200128200000 +0530" channel="Star Jalsha">
+    <title lang="en">Ke Apon Ke Por</title>
+    <desc lang="en">Param, a rich man, falls in love with Joba, his house help. Their relationship goes through several ups and downs before she can prove herself to be a suitable daughter-in-law of the house.(n)</desc>
+    <date>2016</date>
+    <category lang="en">Drama</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/CA2E206D17DF3B3998389051FE016CC632B6A2486.jpg" />
+  </programme>
+  <programme start="20200128200000 +0530" stop="20200128203000 +0530" channel="Star Jalsha">
+    <title lang="en">Mohor</title>
+    <desc lang="en">Mohor, an ambitious girl, runs away from her arranged marriage and comes to a big city to study. Things take a different turn when she is refused by the college administration.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Drama</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/E71E411FEEFCF9A1DA21C1C21A7CD91302258CC35.jpg" />
+  </programme>
+  <programme start="20200128203000 +0530" stop="20200128210000 +0530" channel="Star Jalsha">
+    <title lang="en">Kapal Kundala</title>
+    <desc lang="en">Kapalkundala saves Naba Kumar from the clutches of an evil sage, the formeru0027s foster father, and the two get married. However, the sage will not rest until he has had his revenge.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Drama</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/05DFD79E5A912F2EA95A2D4882EC2CC2B8EDBCDCZ.jpg" />
+  </programme>
+  <programme start="20200128210000 +0530" stop="20200128213000 +0530" channel="Star Jalsha">
+    <title lang="en">Kora Pakhi</title>
+    <desc lang="en">Amon, a tribal girl, aspires to become a successful journalist in a leading Kolkata newspaper. Her life changes when she meets city-bred Ankur and searches for information on her lineage.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Drama</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/E58FE4E7624D20165BB6DC0243D319AC0F931327N.jpg" />
+  </programme>
+  <programme start="20200128213000 +0530" stop="20200128220000 +0530" channel="Star Jalsha">
+    <title lang="en">Dhrubotara</title>
+    <desc lang="en">Just when two childhood friends are about to confess their love for each other, a man with considerable clout suggests the girl marry him to save her family business.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Drama</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/D18AA861005DBD49798E34378F4D49AA80BA32004.jpg" />
+  </programme>
+  <programme start="20200128220000 +0530" stop="20200128223000 +0530" channel="Star Jalsha">
+    <title lang="en">Mahapeeth Tarapeeth</title>
+    <desc lang="en">After Goddess Sati gives up on her life, Lord Vishnu decimates her body. Tarapith is one of the many places in India where Goddess Satiu0027s body parts fell.(n)</desc>
+    <category lang="en">Mythology</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/35D2D9A1182DB450E461212D43F574A78DE2DECFR.jpg" />
+  </programme>
+  <programme start="20200128223000 +0530" stop="20200128230000 +0530" channel="Star Jalsha">
+    <title lang="en">Chuni Panna</title>
+    <desc lang="en">Throughout her childhood, Chuni aspires to be a ghost hunter. Coincidentally, she grows up to marry Nirbhik, who lives in a haunted house with a ghost called Panna.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/163879ED8A23B6067EC1B73ACFC7B2F31388BE50P.jpg" />
+  </programme>
+  <programme start="20200128230000 +0530" stop="20200128233000 +0530" channel="Star Jalsha">
+    <title lang="en">Irabotir Chupkotha</title>
+    <desc lang="en">Iraboti Mitra, a working woman, shoulders the responsibility of her family and keeps marriage proposals at bay. Things change after she meets Akash, an arrogant man, who threatens to take her house.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Drama</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/CE1462E23481952B65BABC9A887D1519E6EDDE1CY.jpg" />
+  </programme>
+  <programme start="20200128233000 +0530" stop="20200129000000 +0530" channel="Star Jalsha">
+    <title lang="en">Sanjher Baati</title>
+    <desc lang="en">Charu, a village girl, is envied by her stepmother and stepsister who put her through hardships. However, Charuu0027s life takes a turn after she gets married to Arjoman.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Drama</category>
+    <category lang="en">TV Show</category>
+    <icon src="http://imagesstartv.whatsonindia.com/dasimages/landscape/360x270/78689741133BF4D6C72FCDE612422DD235BF84612.jpg" />
+  </programme>
+  <programme start="20200128000000 +0530" stop="20200128003000 +0530" channel="STAR PLUS">
+    <title lang="en">Kasautii Zindagii Kay</title>
+    <desc lang="en">Two lovers (Prerna and Anurag) entwined in fate get separated and find themselves back to each other time and again as they struggle through love and revenge.(n)</desc>
+  </programme>
+  <programme start="20200128003000 +0530" stop="20200128010000 +0530" channel="STAR PLUS">
+    <title lang="en">Yeh Rishta Kya Kehlata Hai</title>
+    <desc lang="en">Yeh Rishta Kya Kehlata Hai serial showcases the concept of an Indian culture arranged marriage and focuses on the daily happenings within the household...(n)</desc>
+  </programme>
+  <programme start="20200128010000 +0530" stop="20200128013000 +0530" channel="STAR PLUS">
+    <title lang="en">Yeh Rishta Kya Kehlata Hai</title>
+    <desc lang="en">Yeh Rishta Kya Kehlata Hai serial showcases the concept of an Indian culture arranged marriage and focuses on the daily happenings within the household...(n)</desc>
+  </programme>
+  <programme start="20200128013000 +0530" stop="20200128020000 +0530" channel="STAR PLUS">
+    <title lang="en">Yeh Rishta Kya Kehlata Hai</title>
+    <desc lang="en">Yeh Rishta Kya Kehlata Hai serial showcases the concept of an Indian culture arranged marriage and focuses on the daily happenings within the household...(n)</desc>
+  </programme>
+  <programme start="20200128020000 +0530" stop="20200128023000 +0530" channel="STAR PLUS">
+    <title lang="en">Yeh Rishta Kya Kehlata Hai</title>
+    <desc lang="en">Yeh Rishta Kya Kehlata Hai serial showcases the concept of an Indian culture arranged marriage and focuses on the daily happenings within the household...(n)</desc>
+  </programme>
+  <programme start="20200128023000 +0530" stop="20200128030000 +0530" channel="STAR PLUS">
+    <title lang="en">Yeh Rishta Kya Kehlata Hai</title>
+    <desc lang="en">Yeh Rishta Kya Kehlata Hai serial showcases the concept of an Indian culture arranged marriage and focuses on the daily happenings within the household...(n)</desc>
+  </programme>
+  <programme start="20200128030000 +0530" stop="20200128033000 +0530" channel="STAR PLUS">
+    <title lang="en">Nazar</title>
+    <desc lang="en">After Mohona, a young woman, turns into a witch, her daughter Niyati, who lives with her grandparents, faces several spine-chilling events that turn her life upside down.(n)</desc>
+  </programme>
+  <programme start="20200128033000 +0530" stop="20200128040000 +0530" channel="STAR PLUS">
+    <title lang="en">Nazar</title>
+    <desc lang="en">After Mohona, a young woman, turns into a witch, her daughter Niyati, who lives with her grandparents, faces several spine-chilling events that turn her life upside down.(n)</desc>
+  </programme>
+  <programme start="20200128040000 +0530" stop="20200128043000 +0530" channel="STAR PLUS">
+    <title lang="en">Nazar</title>
+    <desc lang="en">After Mohona, a young woman, turns into a witch, her daughter Niyati, who lives with her grandparents, faces several spine-chilling events that turn her life upside down.(n)</desc>
+  </programme>
+  <programme start="20200128043000 +0530" stop="20200128050000 +0530" channel="STAR PLUS">
+    <title lang="en">Nazar</title>
+    <desc lang="en">After Mohona, a young woman, turns into a witch, her daughter Niyati, who lives with her grandparents, faces several spine-chilling events that turn her life upside down.(n)</desc>
+  </programme>
+  <programme start="20200128050000 +0530" stop="20200128053000 +0530" channel="STAR PLUS">
+    <title lang="en">Kasautii Zindagii Kay</title>
+    <desc lang="en">Two lovers (Prerna and Anurag) entwined in fate get separated and find themselves back to each other time and again as they struggle through love and revenge.(n)</desc>
+  </programme>
+  <programme start="20200128053000 +0530" stop="20200128060000 +0530" channel="STAR PLUS">
+    <title lang="en">Yeh Hai Chahatein</title>
+    <desc lang="en">When her sister, Vasudha, suddenly dies, Preesha takes it upon herself to raise her sibling's son, Saransh, amidst the challenges of being a parent.(n)</desc>
+  </programme>
+  <programme start="20200128060000 +0530" stop="20200128063000 +0530" channel="STAR PLUS">
+    <title lang="en">Yeh Rishta Kya Kehlata Hai</title>
+    <desc lang="en">Yeh Rishta Kya Kehlata Hai serial showcases the concept of an Indian culture arranged marriage and focuses on the daily happenings within the household...(n)</desc>
+  </programme>
+  <programme start="20200128063000 +0530" stop="20200128070000 +0530" channel="STAR PLUS">
+    <title lang="en">Kahaan Hum Kahaan Tum</title>
+    <desc lang="en">Rohit, a surgeon, and Sonakshi, an actress, truly love each other but struggle to keep up with their relationship owing to their hectic work schedules.(n)</desc>
+  </programme>
+  <programme start="20200128070000 +0530" stop="20200128073000 +0530" channel="STAR PLUS">
+    <title lang="en">Kasautii Zindagii Kay</title>
+    <desc lang="en">Two lovers (Prerna and Anurag) entwined in fate get separated and find themselves back to each other time and again as they struggle through love and revenge.(n)</desc>
+  </programme>
+  <programme start="20200128073000 +0530" stop="20200128080000 +0530" channel="STAR PLUS">
+    <title lang="en">Yeh Hai Chahatein</title>
+    <desc lang="en">When her sister, Vasudha, suddenly dies, Preesha takes it upon herself to raise her sibling's son, Saransh, amidst the challenges of being a parent.(n)</desc>
+  </programme>
+  <programme start="20200128080000 +0530" stop="20200128083000 +0530" channel="STAR PLUS">
+    <title lang="en">Yeh Rishtey Hain Pyaar Ke</title>
+    <desc lang="en">Mishti, a young woman, is forced to get married to the person of her family's choice. However, she feels that she must get a chance to know her life partner well before making the commitment.(n)</desc>
+  </programme>
+  <programme start="20200128083000 +0530" stop="20200128090000 +0530" channel="STAR PLUS">
+    <title lang="en">Yeh Rishta Kya Kehlata Hai</title>
+    <desc lang="en">Yeh Rishta Kya Kehlata Hai serial showcases the concept of an Indian culture arranged marriage and focuses on the daily happenings within the household...(n)</desc>
+  </programme>
+  <programme start="20200128090000 +0530" stop="20200128093000 +0530" channel="STAR PLUS">
+    <title lang="en">Nazar</title>
+    <desc lang="en">After Mohona, a young woman, turns into a witch, her daughter Niyati, who lives with her grandparents, faces several spine-chilling events that turn her life upside down.(n)</desc>
+  </programme>
+  <programme start="20200128093000 +0530" stop="20200128100000 +0530" channel="STAR PLUS">
+    <title lang="en">Yehh Jadu Hai Jinn Ka!</title>
+    <desc lang="en">Aman, a rich magician, is cursed and possessed by a jinn. However, he develops the strength to fight back after Roshni enters her life.(n)</desc>
+  </programme>
+  <programme start="20200128100000 +0530" stop="20200128103000 +0530" channel="STAR PLUS">
+    <title lang="en">Dadi Amma.. Dadi Amma Maan Jaao!</title>
+    <desc lang="en">Dadi Amma.. Dadi Amma Maan Jaao!(n)</desc>
+  </programme>
+  <programme start="20200128103000 +0530" stop="20200128110000 +0530" channel="STAR PLUS">
+    <title lang="en">Yeh Rishta Kya Kehlata Hai</title>
+    <desc lang="en">Yeh Rishta Kya Kehlata Hai serial showcases the concept of an Indian culture arranged marriage and focuses on the daily happenings within the household...(n)</desc>
+  </programme>
+  <programme start="20200128110000 +0530" stop="20200128113000 +0530" channel="STAR PLUS">
+    <title lang="en">Kasautii Zindagii Kay</title>
+    <desc lang="en">Two lovers (Prerna and Anurag) entwined in fate get separated and find themselves back to each other time and again as they struggle through love and revenge.(n)</desc>
+  </programme>
+  <programme start="20200128113000 +0530" stop="20200128120000 +0530" channel="STAR PLUS">
+    <title lang="en">Yeh Hai Chahatein</title>
+    <desc lang="en">When her sister, Vasudha, suddenly dies, Preesha takes it upon herself to raise her sibling's son, Saransh, amidst the challenges of being a parent.(n)</desc>
+  </programme>
+  <programme start="20200128120000 +0530" stop="20200128123000 +0530" channel="STAR PLUS">
+    <title lang="en">Yeh Rishtey Hain Pyaar Ke</title>
+    <desc lang="en">Mishti, a young woman, is forced to get married to the person of her family's choice. However, she feels that she must get a chance to know her life partner well before making the commitment.(n)</desc>
+  </programme>
+  <programme start="20200128123000 +0530" stop="20200128130000 +0530" channel="STAR PLUS">
+    <title lang="en">Yeh Rishta Kya Kehlata Hai</title>
+    <desc lang="en">Yeh Rishta Kya Kehlata Hai serial showcases the concept of an Indian culture arranged marriage and focuses on the daily happenings within the household...(n)</desc>
+  </programme>
+  <programme start="20200128130000 +0530" stop="20200128133000 +0530" channel="STAR PLUS">
+    <title lang="en">Yehh Jadu Hai Jinn Ka!</title>
+    <desc lang="en">Aman, a rich magician, is cursed and possessed by a jinn. However, he develops the strength to fight back after Roshni enters her life.(n)</desc>
+  </programme>
+  <programme start="20200128133000 +0530" stop="20200128140000 +0530" channel="STAR PLUS">
+    <title lang="en">Kasautii Zindagii Kay</title>
+    <desc lang="en">Two lovers (Prerna and Anurag) entwined in fate get separated and find themselves back to each other time and again as they struggle through love and revenge.(n)</desc>
+  </programme>
+  <programme start="20200128140000 +0530" stop="20200128143000 +0530" channel="STAR PLUS">
+    <title lang="en">Kahaan Hum Kahaan Tum</title>
+    <desc lang="en">Rohit, a surgeon, and Sonakshi, an actress, truly love each other but struggle to keep up with their relationship owing to their hectic work schedules.(n)</desc>
+  </programme>
+  <programme start="20200128143000 +0530" stop="20200128150000 +0530" channel="STAR PLUS">
+    <title lang="en">Dadi Amma.. Dadi Amma Maan Jaao!</title>
+    <desc lang="en">Dadi Amma.. Dadi Amma Maan Jaao!(n)</desc>
+  </programme>
+  <programme start="20200128150000 +0530" stop="20200128153000 +0530" channel="STAR PLUS">
+    <title lang="en">Diya Aur Baati Hum</title>
+    <desc lang="en">Sandhya, an IPS officer from Pushkar, must learn to balance her profession and duty to the nation with her responsibilities towards her husband and his family.(n)</desc>
+  </programme>
+  <programme start="20200128153000 +0530" stop="20200128160000 +0530" channel="STAR PLUS">
+    <title lang="en">Diya Aur Baati Hum</title>
+    <desc lang="en">Sandhya, an IPS officer from Pushkar, must learn to balance her profession and duty to the nation with her responsibilities towards her husband and his family.(n)</desc>
+  </programme>
+  <programme start="20200128160000 +0530" stop="20200128170000 +0530" channel="STAR PLUS">
+    <title lang="en">Saath Nibhaana Saathiya</title>
+    <desc lang="en">Saath Nibhaana Saathiya serial is a love story and about saas-bahu relationship between a simpleton Gopi and her strict mother-in-law.(n)</desc>
+  </programme>
+  <programme start="20200128170000 +0530" stop="20200128180000 +0530" channel="STAR PLUS">
+    <title lang="en">Sasural Genda Phool</title>
+    <desc lang="en">The story about two very different people, Ishaan and Suhana. A love story between two strangers who fall in love after marriage.(n)</desc>
+  </programme>
+  <programme start="20200128180000 +0530" stop="20200128183000 +0530" channel="STAR PLUS">
+    <title lang="en">Yeh Rishta Kya Kehlata Hai</title>
+    <desc lang="en">Yeh Rishta Kya Kehlata Hai serial showcases the concept of an Indian culture arranged marriage and focuses on the daily happenings within the household...(n)</desc>
+  </programme>
+  <programme start="20200128183000 +0530" stop="20200128190000 +0530" channel="STAR PLUS">
+    <title lang="en">Sanjivani</title>
+    <desc lang="en">Under Dr Shashank's tutelage, Dr Sid loves to bend the rules while Dr Ishani prefers to play by them.(n)</desc>
+  </programme>
+  <programme start="20200128190000 +0530" stop="20200128193000 +0530" channel="STAR PLUS">
+    <title lang="en">Kullfi Kumarr Bajewala</title>
+    <desc lang="en">Kulfi is an immensely talented girl who sings exceptionally well. She sets out on a journey to reunite with her father, Sikandar Singh Gill.(n)</desc>
+  </programme>
+  <programme start="20200128193000 +0530" stop="20200128200000 +0530" channel="STAR PLUS">
+    <title lang="en">Dadi Amma.. Dadi Amma Maan Jaao!</title>
+    <desc lang="en">Dadi Amma.. Dadi Amma Maan Jaao!(n)</desc>
+  </programme>
+  <programme start="20200128200000 +0530" stop="20200128203000 +0530" channel="STAR PLUS">
+    <title lang="en">Kasautii Zindagii Kay</title>
+    <desc lang="en">Two lovers (Prerna and Anurag) entwined in fate get separated and find themselves back to each other time and again as they struggle through love and revenge.(n)</desc>
+  </programme>
+  <programme start="20200128203000 +0530" stop="20200128210000 +0530" channel="STAR PLUS">
+    <title lang="en">Yehh Jadu Hai Jinn Ka!</title>
+    <desc lang="en">Aman, a rich magician, is cursed and possessed by a jinn. However, he develops the strength to fight back after Roshni enters her life.(n)</desc>
+  </programme>
+  <programme start="20200128210000 +0530" stop="20200128213000 +0530" channel="STAR PLUS">
+    <title lang="en">Kahaan Hum Kahaan Tum</title>
+    <desc lang="en">Rohit, a surgeon, and Sonakshi, an actress, truly love each other but struggle to keep up with their relationship owing to their hectic work schedules.(n)</desc>
+  </programme>
+  <programme start="20200128213000 +0530" stop="20200128220000 +0530" channel="STAR PLUS">
+    <title lang="en">Yeh Rishta Kya Kehlata Hai</title>
+    <desc lang="en">Yeh Rishta Kya Kehlata Hai serial showcases the concept of an Indian culture arranged marriage and focuses on the daily happenings within the household...(n)</desc>
+  </programme>
+  <programme start="20200128220000 +0530" stop="20200128223000 +0530" channel="STAR PLUS">
+    <title lang="en">Yeh Rishtey Hain Pyaar Ke</title>
+    <desc lang="en">Mishti, a young woman, is forced to get married to the person of her family's choice. However, she feels that she must get a chance to know her life partner well before making the commitment.(n)</desc>
+  </programme>
+  <programme start="20200128223000 +0530" stop="20200128230000 +0530" channel="STAR PLUS">
+    <title lang="en">Yeh Hai Chahatein</title>
+    <desc lang="en">When her sister, Vasudha, suddenly dies, Preesha takes it upon herself to raise her sibling's son, Saransh, amidst the challenges of being a parent.(n)</desc>
+  </programme>
+  <programme start="20200128230000 +0530" stop="20200128233000 +0530" channel="STAR PLUS">
+    <title lang="en">Nazar</title>
+    <desc lang="en">After Mohona, a young woman, turns into a witch, her daughter Niyati, who lives with her grandparents, faces several spine-chilling events that turn her life upside down.(n)</desc>
+  </programme>
+</tv>
