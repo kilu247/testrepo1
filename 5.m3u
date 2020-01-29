@@ -140,6 +140,9 @@ http://jiocgwhub.jio.ril.com/Insight/Insight_400.m3u8
 #EXTGRP:Sports
 http://163.172.85.133:8080/TenS/3/index.m3u8
 
+#EXTINF:0 tvg-id="Republic Bharat" group-title="News" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/11/29/bharat.jpg?itok=71cYlimb",Republic Bharat (Auto)
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/republicbharat/republicbharat.isml/master.m3u8
+
 #EXTINF:0,BloombergQuint 144p
 #EXTGRP:News
 http://d11s4g6fjkwvel.cloudfront.net/out/v1/6008c8c2598e47c197d5473f184669a8/bquint_1.m3u8?__nn__=5606168722001&hdnea=1579181400_8e55253e10b01f6facd5c73ff8663d7f
